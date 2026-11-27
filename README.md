@@ -1,10 +1,13 @@
 # TubeSage AI – Smart YouTube Video Summarizer 🧠📹
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-tubesage--ai.netlify.app-purple?style=for-the-badge&logo=netlify)](https://tubesage-ai.netlify.app)
 [![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://github.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB.svg?logo=react)](https://react.dev)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com)
+
+🔗 **Live Website:** [https://tubesage-ai.netlify.app](https://tubesage-ai.netlify.app)
 
 **TubeSage AI** is an intelligent, full-stack YouTube video summarization and conversational intelligence web application. It transforms long YouTube videos into structured, high-yield insights, chronological chapters, and multilingual summaries in seconds.
 
